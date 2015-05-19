@@ -1,1 +1,2 @@
 # ImageMapArea
+test
